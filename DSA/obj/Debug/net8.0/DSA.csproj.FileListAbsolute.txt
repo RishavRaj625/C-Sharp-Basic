@@ -1,0 +1,14 @@
+C:\Users\risha\Desktop\Programming\C#\dsa\bin\Debug\net8.0\DSA.exe
+C:\Users\risha\Desktop\Programming\C#\dsa\bin\Debug\net8.0\DSA.deps.json
+C:\Users\risha\Desktop\Programming\C#\dsa\bin\Debug\net8.0\DSA.runtimeconfig.json
+C:\Users\risha\Desktop\Programming\C#\dsa\bin\Debug\net8.0\DSA.dll
+C:\Users\risha\Desktop\Programming\C#\dsa\bin\Debug\net8.0\DSA.pdb
+C:\Users\risha\Desktop\Programming\C#\dsa\obj\Debug\net8.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risha\Desktop\Programming\C#\dsa\obj\Debug\net8.0\DSA.AssemblyInfoInputs.cache
+C:\Users\risha\Desktop\Programming\C#\dsa\obj\Debug\net8.0\DSA.AssemblyInfo.cs
+C:\Users\risha\Desktop\Programming\C#\dsa\obj\Debug\net8.0\DSA.csproj.CoreCompileInputs.cache
+C:\Users\risha\Desktop\Programming\C#\dsa\obj\Debug\net8.0\DSA.dll
+C:\Users\risha\Desktop\Programming\C#\dsa\obj\Debug\net8.0\refint\DSA.dll
+C:\Users\risha\Desktop\Programming\C#\dsa\obj\Debug\net8.0\DSA.pdb
+C:\Users\risha\Desktop\Programming\C#\dsa\obj\Debug\net8.0\DSA.genruntimeconfig.cache
+C:\Users\risha\Desktop\Programming\C#\dsa\obj\Debug\net8.0\ref\DSA.dll
