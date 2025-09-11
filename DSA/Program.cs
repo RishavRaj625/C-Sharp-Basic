@@ -6,6 +6,15 @@ class Program
     {
         Console.WriteLine("Good Morning Sir.. here I'm sending you the message");
     }
+    static void greet1(String name)
+    {
+        Console.WriteLine("Good Morning Sir.. here I'm sending this message to " + name);
+    }
+    static float Average(int a, int b, int c)
+    {
+        float Sum = a + b + c;
+        return Sum/3;
+    }
     static void Main(string[] args)
     {
         HelloMan.SayHello();  // <-- use the method from Hello.cs
@@ -177,8 +186,24 @@ class Program
     */
         // Methods : uses of Function
 
+        /*
         Console.WriteLine("I'm accepting your greeting where are your message ");
         greet();
+        greet1("Rishu");
+        greet1("Riya");
+
+        Console.WriteLine("Average of number is " + Average(8,9,5));
+        */
+
+        // OOPs : Object & Class
+
+        Player tommy = new Player();
+        Console.WriteLine("Class name is " + tommy);
+        Console.WriteLine(tommy.name);
+        Console.WriteLine(tommy.age);
+        
+        tommy.SetAge(45);
+        Console.WriteLine("Updated age is " + tommy.age);
     }
 }
 
